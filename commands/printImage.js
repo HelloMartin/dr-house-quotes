@@ -2,7 +2,7 @@ const chalk = require("chalk");
 
 const printImage = ({ size }) => {
   if (!size) {
-    console.log(medium);
+    console.log(small);
   } else {
     switch (size[0]) {
       case "small":

@@ -8,9 +8,8 @@
   },
   "name": "dr-house-quotes",
   "description": "a command line interface for Dr. House quotes",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
