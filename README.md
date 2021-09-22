@@ -30,6 +30,8 @@ npm install dr-house-quotes -g
 drhouse quote
 ```
 
+![An example image](https://github.com/HelloMartin/dr-house-quotes/blob/main/example.png)
+
 ## Author
 
 👤 **Martin Vogt**
