@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^8.2.0"
+  },
+  "bin": {
+    "drhouse": "index.js"
+  },
+  "name": "dr-house-quotes",
+  "description": "a command line interface for Dr. House quotes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloMartin/dr-house-quotes.git"
+  },
+  "author": "Martin Vogt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloMartin/dr-house-quotes/issues"
+  },
+  "homepage": "https://github.com/HelloMartin/dr-house-quotes#readme"
+}
